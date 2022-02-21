@@ -1,3 +1,6 @@
+body{
+    background: gainsboro;
+}
 h3, h4{
     font-size: 3vh;
 }
