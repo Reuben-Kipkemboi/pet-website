@@ -1,0 +1,20 @@
+h3, h4{
+    font-size: 3vh;
+}
+h3{
+    color: hotpink;
+}
+h4{
+    color: darkmagenta;
+}
+ul{
+    line-height: 2.0;
+}
+li{
+    list-style-type: circle;
+    color: black;
+    font-size: 2.5vh;
+}
+p{
+    font-size: 2.5vh;
+}
