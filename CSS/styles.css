@@ -17,11 +17,12 @@ li{
     list-style-type: circle;
     color: black;
     font-size: 2.5vh;
+    text-transform: capitalize;
 }
 p{
     font-size: 2.5vh;
 }
 img{
     width: 30%;
-    height: 30vh;
+    height: 50vh;
 }
